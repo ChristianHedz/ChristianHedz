@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian Hernandez</h1>
 <h3 align="center">Tengo 20 años y Soy estudiante de Ingenieria en Sistemas</h3>
 
-- 🌱 Estoy aprendiendo Desarrollo web Front End **Oracle Next Education , InnovationVirtual , TzuzulCode , OpenBootcamp**
+- 🌱 Estoy aprendiendo Desarrollo web Front End en **Oracle Next Education , InnovationVirtual , TzuzulCode , OpenBootcamp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
