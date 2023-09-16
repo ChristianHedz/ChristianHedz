@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Christian Hernandez</h1>
 <h3 align="center">Student of TESCHI🌟.</h3>
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <br>
 
