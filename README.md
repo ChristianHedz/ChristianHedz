@@ -42,6 +42,7 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,azure,react&perline=4)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,azure,react&perline=4)](https://skillicons.dev)
 
 <br>
