@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Hernandez</h1>
-<h3 align="center">🌟computer systems engineer 🌟.</h3>
+<h3 align="center">🌟Software Developer 🌟.</h3>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <div align="center">
 <!--   <a href="https://1999azzar.github.io/1999AZZAR/">
